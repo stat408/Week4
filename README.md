@@ -9,3 +9,4 @@ The goals for Week 4 are:
 2. Understand principles of debugging R code
 3. Differentiate between data structures in R
 4. Create graphics with base graphics
+5. Short review of `dplyr`
