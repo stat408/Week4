@@ -8,5 +8,5 @@ The goals for Week 4 are:
 1. Learn R style guide
 2. Understand principles of debugging R code
 3. Differentiate between data structures in R
-4. Create graphics with base graphics
-5. Short review of `dplyr`
+4. Understand different methods for subsetting data structures
+5. Create graphics with base graphics
